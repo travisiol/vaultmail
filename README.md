@@ -4,6 +4,8 @@ Wallet-to-wallet mail. Any wallet can put three things in another wallet's inbox
 
 No account, no email, no password. No contract of ours between payer and payee, no fee, nothing held.
 
+**Live:** https://vaultmail-tawny.vercel.app (Vercel, ephemeral storage — see Deploy).
+
 ![hero](docs/captures/hero.png)
 
 ## Screens
