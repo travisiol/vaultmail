@@ -1,0 +1,20 @@
+{
+  "name": "vaultmail-chain",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local chain for VAULT MAIL's end-to-end test: a Hardhat node and a mintable ERC-20 to pay an invoice with. Nothing here is deployed anywhere.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}

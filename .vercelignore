@@ -1,0 +1,5 @@
+chain
+docs
+data
+.next
+scripts/ui-e2e.mjs
